@@ -7,7 +7,7 @@ export COLOR_03="#3CD1AA"           # COMMAND
 export COLOR_04="#FDC085"           # COMMAND_COLOR2
 export COLOR_05="#5BB8E3"           # PATH
 export COLOR_06="#74507A"           # SYNTAX_VAR
-export COLOR_07="#23E4C1"           # PROMP
+export COLOR_07="#7DFFE2"           # PROMP
 export COLOR_08="#D3D7CF"           #
 
 export COLOR_09="#555753"           #
